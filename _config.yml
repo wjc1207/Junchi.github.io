@@ -28,7 +28,7 @@ author:
   bio              : "MSc student in Communications and Signal Processing at Imperial College London"
   location         : "UK"
   employer         : "Imperial College London"
-  uri              : "https://www.imperial.ac.uk/"
+  uri              : #
   email            : "jw3724@ic.ac.uk" 
 
   # Academic websites
