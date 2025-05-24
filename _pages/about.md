@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to Junchi Wang's Website ~
+## Welcome to Junchi Wang's Website ~
