@@ -11,54 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Imperial College London, UK** (Sep 2024 – Sep 2025)  
+  Master in Communications and Signal Processing  
+  Related courses: Advanced Communication Theory, Computational Sensing and Imaging, Wireless Communication and Optimization, Information Theory  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Xidian - Heriot Watt Joint Programme, China and UK** (Sep 2020 – Sep 2024)  
+  Bachelor in Telecommunication Engineering (First Class Honours, GPA: 3.9/4.0)  
+  Related courses: Digital Signal Processing, Microwave Technique, High Frequency Circuits  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
+* **Multi-Channel Unlimited Sensing** (Feb 2025 – Sep 2025)  
+  *Supervisors: Dr. Ayush Bhandari, Imperial College London*  
+  Combined multi-channel sampling and Unlimited Sensing Framework (USF) to enable high-frequency, large-amplitude signal sampling.  
+  *Key words:* Sampling Theorem, Unlimited Sensing Framework, Multi-Channel Sampling, DSP  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **WiFi Sensing** (Sep 2023 – Jun 2024)  
+  *Supervisors: Dr. Mauro Dragone, Heriot-Watt University*  
+  Used Channel State Information and Deep Learning to achieve Integrated Sensing and Communications (ISaC) for joint Human Activity Recognition and Localization.  
+  *Key words:* Deep Learning, CSI, Digital Signal Processing, HAR  
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* **Advanced Communication Theory Coursework** (Dec 2024)  
+  Multi-path spatiotemporal wireless communication and localization of signals.  
+  *Key words:* Array Geometry, Array Response, Estimation, Beamforming, Localization, Gold-Sequence  
+
+* **Wireless Communication and Optimization Coursework** (Mar 2025)  
+  Designed RIS elements to minimize transmit power under SINR requirements.  
+  *Key words:* CVX Toolbox, Convex Optimization, SDR, Gaussian Randomization  
+
+* **AI Agents Hackathon – MIT & Harvard Researchers** (Jun 2025)  
+  Built a self-tamagotchi based on MCP and Claude LLM that creates a social community.  
+  *Key words:* NANDA, MCP (Model Context Protocol), Decentralized AI  
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Deputy Principal’s Award (2023 – 2024)  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* **Teaching Assistant, Heriot-Watt University**  
+  - F29DC (Data Communications & Networking) (Sep 2023 – Dec 2023)  
+  - F27CS (Introduction to Computer Systems) (Feb 2024 – Jun 2024)  
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* **Programming Languages:** Python, C/C++, MATLAB, HTML  
+* **Machine Learning Tools:** PyTorch, TensorFlow, Sklearn, Pandas, Numpy  
+* **Hobbies:** Birding, Hiking  
+
+Links
+======
+* [GitHub](https://github.com/wjc1207)  
+* [Google Scholar 1](https://scholar.google.co.uk/citations?user=0LC6lfwAAAAJ&hl=en)  
+* [Google Scholar 2](https://scholar.google.co.uk/citations?user=Y4snaswAAAAJ&hl=en)  
+
