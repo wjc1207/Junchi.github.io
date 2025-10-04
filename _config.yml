@@ -22,7 +22,7 @@ repository               : "wjc1207/Junchi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "test.jpg"
+  avatar           : "teaster.jpg"
   name             : "Junchi Wang"
   pronouns         : # example: "He/His"  
   bio              : "MSc student in Communications and Signal Processing at Imperial College London"
